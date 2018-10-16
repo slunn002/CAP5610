@@ -1,6 +1,12 @@
 # Mac specific
 .DS_Store
 
+# jetbrains
+.idea
+
+# repo specific
+images
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
